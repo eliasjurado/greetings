@@ -10,7 +10,7 @@ Ejecuta el siguiente comando para instalar el paquete:
 go get -u github.com/eliasjurado/greetings
 ```
 
-## so
+## Uso
 
 Ejemplo de cómo utilizar el paquete en tu código:
 
